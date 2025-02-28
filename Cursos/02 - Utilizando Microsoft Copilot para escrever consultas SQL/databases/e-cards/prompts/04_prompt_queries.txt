@@ -1,0 +1,4 @@
+Prompt 1: 
+
+Considerando todas as tabelas do banco 'pokemon_tcg', 
+crie 15 consultas sendo consultas com INNER JOIN, subqueries, ORDER BY, GROUP BY e HAVING.
